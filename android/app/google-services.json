@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569769006135",
+    "project_id": "modernui-10964",
+    "storage_bucket": "modernui-10964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569769006135:android:56fba428c4ea86cdd45bb2",
+        "android_client_info": {
+          "package_name": "com.example.moder_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJVkrN1bNe0LtoWqm4_ljZp7AbDBPi3fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
